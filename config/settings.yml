@@ -1,0 +1,4 @@
+sequence_diagram:
+  enable_sequence_diagram_plugin:
+    default: true
+    client: true
