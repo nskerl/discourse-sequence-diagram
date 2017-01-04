@@ -15,13 +15,6 @@ function replaceDiagrams(text) {
 }
 
 export function setup(helper) {
-	
-  helper.addPreProcessor(text => {
-    return replaceDiagrams(text);
-  });
-
-  helper.whiteList([
-	  'div.discourse-sequence-diagram'
-  ]);
-
+  helper.whiteList(['div.discourse-sequence-diagram']);
+  helper.addPreProcessor(replaceDiagrams);
 }
