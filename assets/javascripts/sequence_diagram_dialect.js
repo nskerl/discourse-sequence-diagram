@@ -1,4 +1,6 @@
 (function() {
+	if (Discourse.dialect_deprecated) { return; }
+	
 	function replaceDiagrams(text) {
 		text = text || "";
 		var i = 0;
