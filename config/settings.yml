@@ -1,4 +1,4 @@
-sequence_diagram:
-  enable_sequence_diagram_plugin:
+plugins:
+  diagrams_plugin_enabled:
     default: true
     client: true
