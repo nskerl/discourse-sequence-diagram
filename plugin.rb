@@ -1,6 +1,6 @@
 # name: diagrams
 # about: Draw a sequence diagram
-# version: 0.2
+# version: 0.3
 # authors: Nathan Skerl
 # url: https://github.com/nskerl/discourse-sequence-diagram.git
 
