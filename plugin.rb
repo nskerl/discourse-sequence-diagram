@@ -1,6 +1,6 @@
-# name: Sequence Diagram
+# name: diagrams
 # about: Draw a sequence diagram
-# version: 0.1
+# version: 0.2
 # authors: Nathan Skerl
 
 enabled_site_setting :diagrams_plugin_enabled
