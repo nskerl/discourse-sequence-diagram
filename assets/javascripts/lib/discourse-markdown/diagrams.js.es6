@@ -1,7 +1,7 @@
 import { registerOption } from 'pretty-text/pretty-text';
 
 registerOption((siteSettings, opts) => {
-  opts.features.diagram = !!siteSettings.diagrams_plugin_enabled;
+  opts.features.diagram = true;
 });
 
 function replaceDiagrams(text) {
@@ -16,5 +16,5 @@ function replaceDiagrams(text) {
 
 export function setup(helper) {
   helper.whiteList(['div.discourse-sequence-diagram']);
-  helper.addPreProcessor(replaceDiagrams);
+  helper.addPreProcessor(text => replaceDiagrams(text));
 }
