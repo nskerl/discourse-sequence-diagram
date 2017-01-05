@@ -2,6 +2,7 @@
 # about: Draw a sequence diagram
 # version: 0.2
 # authors: Nathan Skerl
+# url: https://github.com/nskerl/discourse-sequence-diagram.git
 
 enabled_site_setting :diagrams_plugin_enabled
 
