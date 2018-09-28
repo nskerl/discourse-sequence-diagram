@@ -1,10 +1,9 @@
-** Incompatible with latest Discourse **
+**Incompatible with latest Discourse**
 I have moved to:  https://github.com/unfoldingWord-dev/discourse-mermaid
 
 
 
 discourse-sequence-diagram
-=======================
 
 Sequence diagram plugin for [Discourse](http://discourse.org)
 
