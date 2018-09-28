@@ -1,4 +1,5 @@
 **Incompatible with latest Discourse**
+
 I have moved to:  https://github.com/unfoldingWord-dev/discourse-mermaid
 
 
