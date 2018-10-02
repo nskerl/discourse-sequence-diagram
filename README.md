@@ -1,9 +1,9 @@
 **Incompatible with latest Discourse**
 
 Alternatives:  
-https://github.com/unfoldingWord-dev/discourse-mermaid
-https://github.com/discourse/discourse-graphviz
----
+-------------
+- https://github.com/unfoldingWord-dev/discourse-mermaid
+- https://github.com/discourse/discourse-graphviz
 
 
 discourse-sequence-diagram
