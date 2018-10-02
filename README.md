@@ -1,7 +1,8 @@
 **Incompatible with latest Discourse**
 
-I have moved to:  https://github.com/unfoldingWord-dev/discourse-mermaid
-
+Alternatives:  
+https://github.com/unfoldingWord-dev/discourse-mermaid
+https://github.com/discourse/discourse-graphviz
 ---
 
 
